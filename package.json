@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SchoolOfCode/node-101-workshop-fabnaj/issues"
   },
-  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-fabnaj#readme"
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-fabnaj#readme",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
 }
