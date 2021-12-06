@@ -16,4 +16,19 @@ let myCollection = [
     }
   ];
   console.log(myCollection)
+
+  function describeItem (item) {
+    console.log(item)
+  }
   
+
+let mug = myCollection[0];
+
+describeItem(mug)
+
+
+
+
+// create a function - name function
+// function needs to take in an item as ()
+//
