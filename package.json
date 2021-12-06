@@ -1,0 +1,19 @@
+{
+  "name": "fabnaj1",
+  "version": "1.0.0",
+  "description": "beginning",
+  "main": "y",
+  "scripts": {
+    "test": "-y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchoolOfCode/node-101-workshop-fabnaj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-fabnaj/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-fabnaj#readme"
+}
